@@ -97,6 +97,7 @@ Just to speed things up a bit, paste the following code into `index.html`:
 
 ```html
 <!DOCTYPE html>
+
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
